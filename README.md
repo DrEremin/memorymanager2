@@ -1,4 +1,4 @@
-#Description
+# Description
 This task is a training on the course "Algorithms and data structures".
 ## Technical task
 Develop a program (memory manager) that allocates and frees memory.<br>
